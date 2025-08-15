@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 This project demonstrates how to train and evaluate a deep learning model (ResNet18 by default) for medical image classification using PyTorch. The dataset is provided in CSV format, where each row contains an image path and its label. The workflow supports training, validation, and model saving for later inference.
 
-**Data Source**: User-provided medical imaging dataset (CSV format with image_path,label).
+**Data Source**: User-provided medical imaging dataset (CSV format with image_path,label).  
 **Run in Colab**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16av-dWn5nWB6snEu6fk907DwBcgieYQR?usp=sharing)
 
 ## 📂 Project Structure
