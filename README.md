@@ -19,7 +19,7 @@ med-imaging/
 │   │   ├── train.csv     # Training data paths & labels  
 │   │   └── val.csv       # Validation data paths & labels  
 ├── runs/                 # Saved models and logs
-│   │   └── bst_model.pth
+│   └── bst_model.pth
 └── requirements.txt      # Dependencies  
 ```
 
