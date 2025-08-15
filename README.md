@@ -11,15 +11,15 @@ This project demonstrates how to train and evaluate a deep learning model (ResNe
 med-imaging/  
 ├── src/  
 │   ├── dataset.py        # Custom PyTorch Dataset for medical images  
-│   ├── train.py          # Training script  
-│   └── evaluate.py       # Evaluation script  
+│   └── train.py          # Training script    
 ├── config/  
 │   └── default.yaml      # Model and training configuration  
 ├── data/  
 │   ├── processed/  
 │   │   ├── train.csv     # Training data paths & labels  
 │   │   └── val.csv       # Validation data paths & labels  
-├── runs/                 # Saved models and logs  
+├── runs/                 # Saved models and logs
+│   │   └── bst_model.pth
 └── requirements.txt      # Dependencies  
 ```
 
